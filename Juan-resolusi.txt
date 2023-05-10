@@ -1,4 +1,4 @@
  Juan RESOLUSI
-- Menjadi Back end developer
+- Menjadi Fullstack Developer
 - Menjadi Data Science
-- Membuat sort code Mata Kuliah
+- Membuat sortcode Mata Kuliah
