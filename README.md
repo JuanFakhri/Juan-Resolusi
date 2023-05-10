@@ -2,7 +2,7 @@
 Repository Juan untuk kedepannya
 
 # Juan-background
-Saya lahir di Jakarta tanggal 7 Juni 2001. Saya lulisan 2019 dari 
+Saya lahir di Jakarta tanggal 7 Juni 2001. Saya tinggal dii Villa Mutiara Cikarang Sekatan Blok D4/11A lulusan 2019 dari 
 sekolah SMAN 2 Cikarang Selatan. Saya mempunyai ketelitian yang 
 baik dalam menganalisa dan mengerjakan pekerjaan. Saya suka 
 berkerja dengan team maupun individual dan mampu mengetahui hal 
